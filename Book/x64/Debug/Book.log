@@ -1,0 +1,5 @@
+﻿  Book.cpp
+C:\Users\alpi1\Documents\CPP\Book\Book.cpp(243,5): warning C4240: nonstandard extension used: access to 'Library::Transaction' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\alpi1\Documents\CPP\Book\Book.cpp(230): message : see declaration of 'Library::Transaction'
+C:\Users\alpi1\Documents\CPP\Book\Book.cpp(359): warning C4715: 'Library::find_bookOwner': not all control paths return a value
+  Book.vcxproj -> C:\Users\alpi1\Documents\CPP\ChapterNineExercises\x64\Debug\Book.exe
