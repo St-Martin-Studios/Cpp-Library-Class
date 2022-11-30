@@ -321,6 +321,7 @@ void Library::CheckOutBook(Book& BookToCheckOut, Patron& Patron) {
     
 }
 
+
 bool Library::CheckBook(const Book& Book) {
 
     for (auto findBook: Books)
